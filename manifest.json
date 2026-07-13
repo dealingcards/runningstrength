@@ -1,0 +1,16 @@
+{
+  "name": "Runner Strength",
+  "short_name": "RunnerStr",
+  "description": "Strength training programs for runners",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0a0a08",
+  "theme_color": "#0a0a08",
+  "orientation": "portrait",
+  "icons": [{
+    "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='96' fill='%230a0a08'/%3E%3Crect x='140' y='120' width='232' height='18' rx='9' fill='%23c9f24a'/%3E%3Crect x='180' y='200' width='152' height='152' rx='24' fill='%23c9f24a'/%3E%3Crect x='60' y='210' width='120' height='130' rx='20' fill='%23c9f24a'/%3E%3Crect x='332' y='210' width='120' height='130' rx='20' fill='%23c9f24a'/%3E%3C/svg%3E",
+    "sizes": "512x512",
+    "type": "image/svg+xml",
+    "purpose": "any maskable"
+  }]
+}
