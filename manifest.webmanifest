@@ -1,0 +1,19 @@
+{
+  "name": "Runner Strength",
+  "short_name": "Strength",
+  "description": "A private, offline strength planner for runners.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101828",
+  "theme_color": "#101828",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icons/runner-strength.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
